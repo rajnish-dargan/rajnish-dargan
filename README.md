@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rajnish ![image](https://user-images.githubusercontent.com/82456953/151496548-c4528589-24b1-485b-a31c-760bc0f28500.png)
+- 👋 Hi, I’m Rajnish.
 
 - 🌱 I’m currently working on an Open Source project called [Sunbird](https://github.com/Sunbird-Ed/).
 
