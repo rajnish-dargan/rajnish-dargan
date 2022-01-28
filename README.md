@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @rajnishdargan
-- 🌱 I’m currently working on an Open Source project [Sunbird](https://github.com/Sunbird-Ed/).
+- 👋 Hi, I’m Rajnish ![image](https://user-images.githubusercontent.com/82456953/151496548-c4528589-24b1-485b-a31c-760bc0f28500.png)
+
+- 🌱 I’m currently working on an Open Source project called [Sunbird](https://github.com/Sunbird-Ed/).
 
 <!---
 rajnishdargan/rajnishdargan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
