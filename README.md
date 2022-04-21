@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rajnish.
 
 - 🌱 I’m currently working on an Open Source project called [Sunbird](https://github.com/Sunbird-Ed/).
-- 👨‍💻 Developer @ [inQuiry] (https://inquiry.sunbird.org/learn/overview)
+- 👨‍💻 Developer at [inQuiry](https://inquiry.sunbird.org/learn/overview)
 
 <!---
 rajnishdargan/rajnishdargan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
