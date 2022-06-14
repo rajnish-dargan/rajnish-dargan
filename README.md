@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajnish.
 - 👨‍💻 I’m currently working on an Open Source project called [Sunbird](https://github.com/Sunbird-Ed/).
-- 👀 Here is the link of my new [Github](https://github.com/rajnishdargan)
+- 👀 Link of my new [Github](https://github.com/rajnishdargan) account.
 - 🌱 I’m currently learning NodeJs.
 
 ![Rajnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajnish-dargan&show_icons=true&theme=dark)
