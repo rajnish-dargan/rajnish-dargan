@@ -1,7 +1,12 @@
 - 👋 Hi, I’m Rajnish.
+- 👋 Hi, I’m Rajnish
+- 👨‍💻 I have working experince project called [Sunbird](https://github.com/Sunbird-Ed/).
+- 👀 Here is the link of my new [Github](https://github.com/rajnishdargan)
+- 🌱 I’m currently learning NodeJs
 
-- 🌱 I’m currently working on an Open Source project called [Sunbird](https://github.com/Sunbird-Ed/).
-- 👨‍💻 Developer at [inQuiry](https://inquiry.sunbird.org/learn/overview) building block.
+![Rajnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajnish-dargan&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajnish-dargan&layout=compact)](https://github.com/rajnish-dargan/github-readme-stats)
 
 <!---
 rajnishdargan/rajnishdargan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
